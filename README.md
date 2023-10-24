@@ -1,5 +1,7 @@
 ### Hello everyone (｡◕‿◕｡)➜👋 My name is Galym👨‍💻
 
+### I am FrontEnd developer
+
 ------------------------------------------------------------------------------------------------------------------
 ### My languages:
 ![image](https://github.com/galymsakitzhan/Hello_baby/assets/119322548/50ef96e6-6765-4b54-ab8c-0d9c575c314a)
