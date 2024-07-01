@@ -7,7 +7,7 @@
 ![image](https://github.com/galymsakitzhan/galymsakitzhan/assets/119322548/7c807864-e712-48b7-a8a9-d707f0a86e51)
 ![image](https://github.com/galymsakitzhan/galymsakitzhan/assets/119322548/11a6ce29-d658-45cc-a52d-308a8f5cb51a)
 ![image](https://github.com/galymsakitzhan/galymsakitzhan/assets/119322548/b0212511-d272-45d5-8282-bc1d15c826ce)
-![image](https://github.com/galymsakitzhan/galymsakitzhan/assets/119322548/79381780-12a8-4925-a2ec-01cc08e4b76b)
+![image]([https://github.com/galymsakitzhan/galymsakitzhan/assets/119322548/79381780-12a8-4925-a2ec-01cc08e4b76b](https://skillicons.dev/icons?i=all))
 
 
 
