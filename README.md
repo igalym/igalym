@@ -3,7 +3,7 @@
 My name is Galym
 ------------------------------------------------------------------------------------------------------------------
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,java,mysql,github,linux,windows,figma,tailwind,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,java,mysql,github,linux,windows,figma,tailwind)](https://skillicons.dev)
 ------------------------------------------------------------------------------------------------------------------
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#search/galymsakitzhan%40gmail.com)
