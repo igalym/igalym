@@ -8,4 +8,5 @@ My name is Galym
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#search/galymsakitzhan%40gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/galym-sakitzhan-78a0a8296/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/iframer/)
 ------------------------------------------------------------------------------------------------------------------
