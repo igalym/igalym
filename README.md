@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------
 ### Hello everyone👋,my name is Galym!
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,github,macos,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,github,figma,tailwind)](https://skillicons.dev)
 ------------------------------------------------------------------------------------------------------------------
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#search/galymsakitzhan%40gmail.com)
