@@ -10,7 +10,8 @@
 ------------------------------------------------------------------------------------------------------------------
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
-<img align='right' src="https://i.gifer.com/embedded/download/M006.gif" width="200">
+
+<img align='left' src="https://media.tenor.com/K4XT3oqu3uYAAAAM/naruto-naruto-shippuden.gif" width="267">
 
 ```js
 class FrontendDeveloper{
