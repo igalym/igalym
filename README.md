@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
-<img align='left' src="https://media.tenor.com/K4XT3oqu3uYAAAAM/naruto-naruto-shippuden.gif" width="250">
+<img align='left' src="https://media.tenor.com/K4XT3oqu3uYAAAAM/naruto-naruto-shippuden.gif" width="230">
 
 ```js
 class FrontendDeveloper{
