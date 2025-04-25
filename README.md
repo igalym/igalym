@@ -10,6 +10,7 @@
 ------------------------------------------------------------------------------------------------------------------
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
+<img align='right' src="https://i.gifer.com/embedded/download/M006.gif" width="200">
 
 ```js
 class FrontendDeveloper{
