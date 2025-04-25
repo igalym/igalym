@@ -9,6 +9,30 @@
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/iframer/)
 ------------------------------------------------------------------------------------------------------------------
 
+<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
+```js
+class FrontendDeveloper{
+    constructor() {
+        this.name = "Galym";
+        this.age = 21;
+        this.role = "Frontend Developer";
+        this.language_spoken = ["en", "ru", "kz"];
+    }
+
+    Hello() {
+        console.log("I hope you find some of my work interesting.");
+    }
+}
+
+const me = new FrontendDeveloper();
+me.Hello();
+```
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
