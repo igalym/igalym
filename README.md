@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
-<img align='left' src="https://media.tenor.com/K4XT3oqu3uYAAAAM/naruto-naruto-shippuden.gif" width="237">
+<img align='left' src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-1130.gif" width="420">
 
 ```js
 class FrontendDeveloper{
