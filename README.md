@@ -16,7 +16,14 @@ class FrontendDeveloper{
         this.role = "Frontend Developer";
         this.language_spoken = ["en", "ru", "kz"];
     }
+
+sayHi() {
+        console.log("Thanks for stopping by. I hope you find some of my work interesting.");
+    }
 }
+
+const me = new SoftwareEngineer();
+me.sayHi();
 
 ```
 
