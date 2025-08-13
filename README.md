@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
-<img align='left' src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-1130.gif" width="420">
+<img align='left' src="https://i.pinimg.com/originals/c5/26/54/c52654ea9c498e438932deeee19a9d87.gif" width="300">
 
 ```js
 class FrontendDeveloper{
