@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
-<img align='left' src="https://gifdb.com/images/high/punch-skill-baki-hanma-s1n6ohufhu44m24t.gif" width="400">
+<img align='left' src="https://i.pinimg.com/736x/88/e3/4a/88e34a0b78b1dde29b84845a3f83e144.jpg" width="400">
 
 ```js
 class FrontendDeveloper{
