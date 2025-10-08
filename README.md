@@ -43,9 +43,8 @@ me.sayHi();
 
 <!-- 🔥 Streak Stats -->
 <!-- 📊 GitHub Stats Section -->
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 150px;">
+<!-- <div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 150px;">
 
-  <!-- 🔥 Streak Stats -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
@@ -55,7 +54,6 @@ me.sayHi();
     />
   </a>
 
-  <!-- 📊 Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="igalym's Top Languages"
@@ -64,10 +62,9 @@ me.sayHi();
       width="250px"
     />
   </a>
-</div>
-
-<!-- 📈 Activity Graph -->
-<div align="center" style="margin-top: 40px;">
+</div>-->
+------------------------------------------------------------------------------------------------------------------
+<div align="center" style="margin-top: 40px;" width="100%">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
       alt="igalym's Activity Graph"
