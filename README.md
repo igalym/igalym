@@ -40,32 +40,44 @@ me.sayHi();
 
 ###
 
-<!-- 🔥 Streak Stats -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img
-    title="🔥 Get streak stats for your profile at git.io/streak-stats"
-    alt="igalym's streak"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=igalym&theme=nightowl&hide_border=false&short_numbers=true"
-    height="192px"
-  />
-</a>
 
-<!-- 📊 Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    alt="igalym's Top Languages"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=igalym&langs_count=8&layout=compact&theme=nightowl&hide_border=false"
-    height="192px"
-  />
-</a>
+<!-- 🔥 Streak Stats -->
+<!-- 📊 GitHub Stats Section -->
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 150px;">
+
+  <!-- 🔥 Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="igalym's streak"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=igalym&theme=nightowl&hide_border=false&short_numbers=true"
+      height="192px"
+    />
+  </a>
+
+  <!-- 📊 Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="igalym's Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=igalym&langs_count=8&layout=compact&theme=nightowl&hide_border=false"
+      height="192px"
+      width="250px"
+    />
+  </a>
+</div>
 
 <!-- 📈 Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    alt="igalym's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=igalym&theme=nightowl&hide_border=false"
-  />
-</a>
+<div align="center" style="margin-top: 40px;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      alt="igalym's Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=igalym&theme=nightowl&hide_border=false"
+      width="90%"
+    />
+  </a>
+</div>
+
+
 
 ------------------------------------------------------------------------------------------------------------------
 
