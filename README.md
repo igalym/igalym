@@ -38,6 +38,8 @@ me.sayHi();
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/galym-sakitzhan-78a0a8296/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/iframer/)
 
+###
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igalym&theme=shadow-purple)](https://git.io/streak-stats)
 
 ------------------------------------------------------------------------------------------------------------------
