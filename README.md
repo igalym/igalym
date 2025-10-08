@@ -29,6 +29,8 @@ me.sayHi();
 
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igalym&theme=shadow-purple)](https://git.io/streak-stats)
+
 ### My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,github,figma,tailwind)](https://skillicons.dev)
 
