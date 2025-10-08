@@ -4,11 +4,10 @@
 ------------------------------------------------------------------------------------------------------------------
 
 
-<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
+<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-content: center;">
 
-<img align='left' src="https://i.pinimg.com/736x/88/e3/4a/88e34a0b78b1dde29b84845a3f83e144.jpg" width="450">
+<img align='left' src="https://i.pinimg.com/736x/88/e3/4a/88e34a0b78b1dde29b84845a3f83e144.jpg" width="400">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igalym&theme=shadow-purple)](https://git.io/streak-stats)
 
 ```js
 class FrontendDeveloper{
@@ -38,6 +37,8 @@ me.sayHi();
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#search/galymsakitzhan%40gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/galym-sakitzhan-78a0a8296/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/iframer/)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igalym&theme=shadow-purple)](https://git.io/streak-stats)
 
 ------------------------------------------------------------------------------------------------------------------
 
