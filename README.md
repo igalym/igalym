@@ -24,7 +24,7 @@
 </div>
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,github,figma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,angular,github,figma,tailwind)](https://skillicons.dev)
 
 
 ------------------------------------------------------------------------------------------------------------------
